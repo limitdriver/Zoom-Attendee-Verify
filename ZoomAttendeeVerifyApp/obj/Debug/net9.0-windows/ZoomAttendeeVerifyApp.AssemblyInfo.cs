@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZoomAttendeeVerifyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87807060521970f45aea9947e0e7e3347d4c99c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2ae18bb6196d6b200c6e1761da182ba6049fc48")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZoomAttendeeVerifyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZoomAttendeeVerifyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

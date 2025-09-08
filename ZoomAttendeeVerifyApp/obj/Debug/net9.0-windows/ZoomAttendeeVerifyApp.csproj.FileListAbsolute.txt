@@ -3,15 +3,16 @@ D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\bin\Debug\net9.0-w
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\bin\Debug\net9.0-windows\ZoomAttendeeVerifyApp.runtimeconfig.json
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\bin\Debug\net9.0-windows\ZoomAttendeeVerifyApp.dll
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\bin\Debug\net9.0-windows\ZoomAttendeeVerifyApp.pdb
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\MainWindow.baml
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\MainWindow.g.cs
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\App.g.cs
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp_MarkupCompile.cache
-D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\MainWindow.baml
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.g.resources
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.AssemblyInfoInputs.cache
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.AssemblyInfo.cs
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.csproj.CoreCompileInputs.cache
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.sourcelink.json
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.dll
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\refint\ZoomAttendeeVerifyApp.dll
 D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net9.0-windows\ZoomAttendeeVerifyApp.pdb
