@@ -1,0 +1,5 @@
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net5.0-windows\ZoomAttendeeVerifyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net5.0-windows\ZoomAttendeeVerifyApp.AssemblyInfoInputs.cache
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net5.0-windows\ZoomAttendeeVerifyApp.AssemblyInfo.cs
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net5.0-windows\ZoomAttendeeVerifyApp.csproj.CoreCompileInputs.cache
+D:\Software\Github\Zoom-Attendee-Verify\ZoomAttendeeVerifyApp\obj\Debug\net5.0-windows\ZoomAttendeeVerifyApp.sourcelink.json

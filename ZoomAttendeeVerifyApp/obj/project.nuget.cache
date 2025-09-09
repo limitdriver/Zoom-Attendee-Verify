@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YmpsrImIUak=",
+  "dgSpecHash": "9IU479XtFb4=",
   "success": true,
   "projectFilePath": "D:\\Software\\Github\\Zoom-Attendee-Verify\\ZoomAttendeeVerifyApp\\ZoomAttendeeVerifyApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
+  ],
   "logs": []
 }

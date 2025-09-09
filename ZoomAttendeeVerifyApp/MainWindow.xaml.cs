@@ -41,7 +41,6 @@ namespace ZoomAttendeeVerifyApp
             }
         }
 
-
         private void BrowseSalesforce_Click(object sender, RoutedEventArgs e)
         {
             BrowseFileAndSetPath(SalesforceFileTextbox, ref salesforceFilePath);
@@ -57,17 +56,23 @@ namespace ZoomAttendeeVerifyApp
             if (isFileErrors())
                 return;
 
+            // Reset list
+            attendees.Clear();
+
             // Load Salesforce attendees
             List<Attendee> salesforceAttendees = LoadSalesforceAttendees();
             AddAttendees(salesforceAttendees);
 
+            // Load Zoom attendees
             List<Attendee> zoomAttendees = LoadZoomAttendees();
             AddAttendees(zoomAttendees);
 
+            // Refresh DataGrid
             AttendeeDataGrid.ItemsSource = null;
             AttendeeDataGrid.ItemsSource = attendees;
         }
 
+        // Check for file errors
         private bool isFileErrors()
         {
             if (string.IsNullOrEmpty(salesforceFilePath) || !File.Exists(salesforceFilePath))
@@ -97,6 +102,7 @@ namespace ZoomAttendeeVerifyApp
             return false;
         }
 
+        // Merge new attendees into the main list
         private void AddAttendees(List<Attendee> newAttendees)
         {
             foreach (var attendee in newAttendees)
@@ -120,6 +126,7 @@ namespace ZoomAttendeeVerifyApp
             }
         }
 
+        // Load attendees from Salesforce CSV
         private List<Attendee> LoadSalesforceAttendees()
         {
             var attendees = new List<Attendee>();
@@ -143,8 +150,8 @@ namespace ZoomAttendeeVerifyApp
                 
             return attendees;
         }
-               
 
+        // Load attendees from Zoom CSV
         private List<Attendee> LoadZoomAttendees()
         {
             var attendees = new List<Attendee>();
