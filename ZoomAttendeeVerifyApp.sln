@@ -4,6 +4,8 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomAttendeeVerifyApp", "ZoomAttendeeVerifyApp.csproj", "{61CC8AC9-946E-305D-AC26-C49559BA24B8}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZoomAttendeeVerifierSetup", "..\ZoomAttendeeVerifierSetup\ZoomAttendeeVerifierSetup.vdproj", "{904CBE20-49B2-4F75-AA70-CDA1B2BC1A80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,8 @@ Global
 		{61CC8AC9-946E-305D-AC26-C49559BA24B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61CC8AC9-946E-305D-AC26-C49559BA24B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61CC8AC9-946E-305D-AC26-C49559BA24B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904CBE20-49B2-4F75-AA70-CDA1B2BC1A80}.Debug|Any CPU.ActiveCfg = Debug
+		{904CBE20-49B2-4F75-AA70-CDA1B2BC1A80}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
